@@ -65,6 +65,10 @@
     padding: 10pt;
     margin-top: 2pt;
 }
+.message > .message-block > .message-content > .message-date{
+    font-size: xx-small;
+    color: grey;
+}
 .message.self > .message-block > .sender {
     display: none;
 }
